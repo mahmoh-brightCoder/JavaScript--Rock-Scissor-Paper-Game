@@ -9,7 +9,7 @@
 
 .flex-box-container-1, .flex-box-container-2,.flex-box-rsp,.flex-box-pick-color {
     display: flex;
-    border: 1px solid black;
+    border: 10 solid black;
     padding: 10px;
     flex-wrap: wrap;
     flex-direction: row;
@@ -19,7 +19,7 @@
 .flex-box-container-1 div{
     padding: 10px;
     display: flex;
-    border: 1px solid black;
+    border: 10px solid black;
     align-items: center;
 }
 
